@@ -1,15 +1,15 @@
 # Basic Information 
 title: Qingyang Li
-position: Ph.D candidate
+position: Ph.D. candidate
 affiliation: Nanjing University
 affiliation_link: "https://www.nju.edu.cn/"
 email: liqingyang (at) smail.nju.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: compiler fault localization, compiler testing, Nanjing University, software engineering, Ph.D. candidate
+description: Qingyang Li is a Ph.D. candidate in Computer Science at Nanjing University, focusing on compiler fault localization.
+canonical: https://YcKyL.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
