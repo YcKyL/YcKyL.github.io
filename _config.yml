@@ -3,6 +3,7 @@ title: Qingyang Li (李清扬)
 position: Ph.D candidate
 affiliation: Nanjing University
 email: liqingyang (at) smail.nju.edu.cn
+orcid: https://orcid.org/0009-0004-5666-2158
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,7 +13,6 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-orcid: https://orcid.org/0009-0004-5666-2158
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
@@ -22,7 +22,7 @@ favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+enable_footnote: false
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
