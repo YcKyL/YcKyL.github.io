@@ -1,22 +1,29 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Boosting Compiler Fault Localization: Getting the Best of Both Worlds by Fusing Dynamic and Historical Data"
+    authors: <strong>Qingyang Li</strong>, Yibiao Yang, Maolin Sun, Jiangchang Wu, Qingkai Shi, Yuming Zhou, Baowen X
+    conference_short: IEEE TSE, CCF-A
+    conference: IEEE Transactions on Software Engineering <strong>(IEEE TSE, CCF-A)</strong>, 2026.
+    pdf: https://doi.org/10.1109/TSE.2026.3666208
+    image: ./assets/img/DualTrack.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Isolating Compiler Faults via Multiple Pairs of Adversarial Compilation Configurations"
+    authors: <strong>Qingyang Li</strong>, Yibiao Yang, Maolin Sun, Jiangchang Wu, Qingkai Shi, Yuming Zhou
+    conference_short: ACM TOSEM, CCF-A
+    conference: ACM Transactions on Software Engineering and Methodology, <strong>(ACM TOSEM, CCF-A)</strong>, 2026.
+    pdf: https://doi.org/10.1145/3786786 
+    image: ./assets/img/MultiConf.png
+
+  - title: "Using a Sledgehammer to Crack a Nut? Revisiting Automated Compiler Fault Isolatio"
+    authors: Yibiao Yang, <strong>Qingyang Li</strong>, Maolin Sun, Jiangchang Wu, Yuming Zhou
+    conference_short: ICSE 2026, CCF-A
+    conference: Proceedings of the IEEE/ACM 48th International Conference on Software Engineering, <strong>(ICSE 2026, CCF-A)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2512.16335
+    image: ./assets/img/Basic.png
+
+  - title: "Isolating Compiler Faults through Differentiated Compilation Configurations"
+    authors: Yibiao Yang, <strong>Qingyang Li</strong>, Maolin Sun, Jing Yang, Jiangchang Wu, Yuming Zhou
+    conference_short: IEEE TSE, CCF-A
+    conference: IEEE Transactions on Software Engineering <strong>(IEEE TSE, CCF-A)</strong>, 2025.
+    pdf: https://doi.org/10.1109/TSE.2025.3569530
+    image: ./assets/img/ODFL.png
